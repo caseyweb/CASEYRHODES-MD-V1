@@ -41,7 +41,7 @@
 
 
 
-### 🧚‍♀️POP KID💫
+### 🧚‍♀️CASEYRHODES MD💫
 
 ***
 
@@ -58,7 +58,7 @@
 
 ⭕  DEPLOY NORMAL BOT *[ HEROKU ]*
 
-[![Find On Whatsapp ](https://img.shields.io/badge/🚘Click_Here-pink.svg)](https://dashboard.heroku.com/new?template=https://github.com/Popkiddevs/POPKID-MD)
+[![Find On Whatsapp ](https://img.shields.io/badge/🚘Click_Here-pink.svg)](https://dashboard.heroku.com/new?template=https://github.com/caseyweb/CASEYRHODES-MD-V1)
 
 ****
 
@@ -76,7 +76,7 @@
 
 [![Find On Whatsapp ](https://img.shields.io/badge/🚨How_to_deploy-grey.svg)](https://youtu.be/MsHd3uzDUhY?si=mitgINm02HtAhoBm)
 
- # ⚡ POPKID INFO
+ # ⚡ CASEYRHODES INFO
 ***
 
 </p>
