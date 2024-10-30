@@ -12,7 +12,7 @@ const alive = async (m, Matrix) => {
   const cmd = m.body.startsWith(prefix) ? m.body.slice(prefix.length).toLowerCase() : '';
     if (['alive', 'uptime', 'runtime'].includes(cmd)) {
 
-  const uptimeMessage = `*POPKID MD IS ACTIVE*
+  const uptimeMessage = `*CASEYRHODES MD IS ACTIVE*
 
 ╭─────═━┈┈━═──━┈⊷
 ┇ *${days} Day*
@@ -44,7 +44,7 @@ const alive = async (m, Matrix) => {
             text: uptimeMessage
           }),
           footer: proto.Message.InteractiveMessage.Footer.create({
-            text: "© popkid"
+            text: "© Caseyrhodes"
           }),
           header: proto.Message.InteractiveMessage.Header.create({
             title: "",
@@ -60,8 +60,8 @@ const alive = async (m, Matrix) => {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '254111385747',
-                  newsletterName: "POPKID MD",
+                  newsletterJid: '254112192119',
+                  newsletterName: "CASEYRHODES MD",
                   serverMessageId: 143
                 }
               }
