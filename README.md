@@ -1,7 +1,7 @@
 <p align="center">  
   <a href="https://files.catbox.moe/qck6sr.jpg">
     <img alt="secktor docs" height="300" src="https://files.catbox.moe/qck6sr.jpg">
-    <h1 align="center"> POP KID MADE BY POPKID</h1>
+    <h1 align="center"> CASEYRHODES MD VI MADE BY CASEYRHODES 🌟</h1>
   </a>
 </p>  
   
@@ -11,17 +11,17 @@
 
   ***
 
-<a href="https://www.buymeacoffee.com/ibrahimadams" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="wa.me/254112192119" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 </p>
 <p align="center">
-<a href="https://github.com/Popkiddevs"><img title="Author" src="https://img.shields.io/badge/popkidtech-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/254111385747"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/caseyweb"><img title="Author" src="https://img.shields.io/badge/popkidtech-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VakUEfb4o7qVdkwPk83E"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/254112192119"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/Popkiddevs?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Popkiddevs?label=Followers&style=social"></a>
-<a href="https://github.com/Popkiddevs/POPKID-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Popkiddevs/POPKID-MD?&style=social"></a>
-<a href="https://github.com/Popkiddevs/POPKID-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Popkiddevs/POPKID-MD?style=social"></a>
-<a href="https://github.com/Popkiddevs/POPKID-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Popkiddevs/POPKID-MD?label=Watching&style=social"></a>
+<a href="https://github.com/caseyweb?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/caseyweb?label=Followers&style=social"></a>
+<a href="https://github.com/caseyweb/CASEYRHODES-MD-V1/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Popkiddevs/CASEYRHODES-MD-V1?&style=social"></a>
+<a href="https://github.com/caseyweb/CASEYRHODES-MD-V1/network/members"><img title="Fork" src="https://github.com/caseyweb/CASEYRHODES-MD-V1?style=social"></a>
+<a href="https://github.com/caseyweb/CASEYRHODES-MD-V1/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/caseyweb/CASEYRHODES-MD-V1?label=Watching&style=social"></a>
 </p>></a>                     
 
    <h1 align="center"                  
@@ -85,7 +85,7 @@
 
 
 ## SUPPORT US🚨🐝
-<a href="https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l" target="_blank">
+<a href="https://whatsapp.com/channel/0029VakUEfb4o7qVdkwPk83E" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
@@ -168,12 +168,12 @@ In conclusion, the ChatBot solution presented here provides an efficient and use
 We welcome any feedback or suggestions you may have to help improve the chatbot solution further. With the ability to integrate with different messaging platforms and services, this solution can be adapted to various use cases and industries. As the chatbot ecosystem continues to grow, we believe that solutions like this will play an increasingly important role in providing seamless and efficient interactions between users and services.
 
 
-[popkid Code](.)
+[CASEYRHODES01 Code](.)
 
 
 
 
-[POPKID MD COPY](.)
+[CASEYRHODES  MD COPY](.)
 
 
 
